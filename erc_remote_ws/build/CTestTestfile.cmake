@@ -1,0 +1,35 @@
+# CMake generated Testfile for 
+# Source directory: /home/vishnu/workspaces/erc_remote_ws/src
+# Build directory: /home/vishnu/workspaces/erc_remote_ws/build
+# 
+# This file includes the relevant testing commands required for 
+# testing this directory and lists subdirectories to be tested as well.
+subdirs("gtest")
+subdirs("leo_erc_desktop/leo_erc_gazebo")
+subdirs("leo_erc_common/leo_erc_teleop")
+subdirs("leo_erc_desktop/leo_erc_viz")
+subdirs("leo_navigation_tutorial")
+subdirs("universal_robot/universal_robot")
+subdirs("universal_robot/universal_robots")
+subdirs("universal_robot/ur_description")
+subdirs("universal_robot/ur_e_description")
+subdirs("universal_robot/ur_msgs")
+subdirs("leo_erc_common/leo_erc_description")
+subdirs("ar_tag_toolbox")
+subdirs("UR3_Simulation/ur3_sim")
+subdirs("UR3_Simulation/ur3_sim_description")
+subdirs("UR3_Simulation/ur3_sim_gazebo")
+subdirs("UR3_Simulation/ur3_sim_moveit_config")
+subdirs("universal_robot/ur_bringup")
+subdirs("universal_robot/ur_driver")
+subdirs("universal_robot/ur_e_gazebo")
+subdirs("universal_robot/ur_gazebo")
+subdirs("src/rtabmap_ros")
+subdirs("leo_erc_desktop/leo_erc_gazebo_worlds")
+subdirs("universal_robot/ur10_e_moveit_config")
+subdirs("universal_robot/ur10_moveit_config")
+subdirs("universal_robot/ur3_e_moveit_config")
+subdirs("universal_robot/ur3_moveit_config")
+subdirs("universal_robot/ur5_e_moveit_config")
+subdirs("universal_robot/ur5_moveit_config")
+subdirs("universal_robot/ur_kinematics")

@@ -1,0 +1,8 @@
+prefix=/home/vishnu/workspaces/erc_remote_ws/devel
+
+Name: ur3_sim
+Description: Description of ur3_sim
+Version: 0.0.0
+Cflags: 
+Libs: -L${prefix}/lib 
+Requires: 
